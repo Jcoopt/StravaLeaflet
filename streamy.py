@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug 23 12:06:34 2018
-
+This program doesn't actually map anythin, but is useful for showing the logic
 @author: Joseph
 """
 import matplotlib.pyplot as plt
